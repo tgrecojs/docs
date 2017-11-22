@@ -63,6 +63,10 @@ export default props => {
           content: "### ";
         }
 
+        :global(h4[data-components-heading]) a::before {
+          content: "#### ";
+        }
+
         :global(.lean[data-components-heading]) a::before {
           content: "";
         }

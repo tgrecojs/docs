@@ -137,7 +137,7 @@ ${
   </Code>
 }
 
-#### \`files\` (array)
+#### files (array)
 
 A list of files and directories to be force-uploaded to the deployment (even if they're ignored by \`.gitignore\`).
 

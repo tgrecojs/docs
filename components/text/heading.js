@@ -60,7 +60,7 @@ export const H4 = ({ children, isCommand }) => (
     {children}
     <style jsx>
       {`
-      h3 {
+      h4 {
         font-weight: bold;
         font-size: 16px;
       }
